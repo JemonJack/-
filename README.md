@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # manage
 
 A new Flutter project.
@@ -18,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # -
 使用dart写的一个小APP,供参考，功能还没完善，后续继续更新
->>>>>>> fc85e7cf6aa3151a2b91d131c14c4bbb7a90c9cf
