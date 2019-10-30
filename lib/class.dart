@@ -62,9 +62,6 @@ class StudentchartData {
 
     return [
       new charts.Series<OrdinalStudent,String>(
-        
-      ),
-      new charts.Series<OrdinalStudent,String>(
         id: '语文',
         domainFn: (OrdinalStudent nums,_) => DateFormat('yyyy-MM-dd').format(nums.time),
         measureFn: (OrdinalStudent nums,_) => nums.grade,
